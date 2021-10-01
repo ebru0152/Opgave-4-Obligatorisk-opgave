@@ -1,0 +1,12 @@
+C:\Users\ebrub\source\repos\Opgave4ModelLib\bin\Debug\net5.0\Opgave4ModelLib.deps.json
+C:\Users\ebrub\source\repos\Opgave4ModelLib\bin\Debug\net5.0\Opgave4ModelLib.dll
+C:\Users\ebrub\source\repos\Opgave4ModelLib\bin\Debug\net5.0\ref\Opgave4ModelLib.dll
+C:\Users\ebrub\source\repos\Opgave4ModelLib\bin\Debug\net5.0\Opgave4ModelLib.pdb
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.csproj.AssemblyReference.cache
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.AssemblyInfoInputs.cache
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.AssemblyInfo.cs
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.dll
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\ref\Opgave4ModelLib.dll
+C:\Users\ebrub\source\repos\Opgave4ModelLib\obj\Debug\net5.0\Opgave4ModelLib.pdb

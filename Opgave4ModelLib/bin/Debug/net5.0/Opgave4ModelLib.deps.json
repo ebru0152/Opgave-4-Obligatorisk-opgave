@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Opgave4ModelLib/1.0.0": {
+        "runtime": {
+          "Opgave4ModelLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave4ModelLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
